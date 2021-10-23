@@ -1,0 +1,7 @@
+# c++
+*.o
+*.out
+test.cpp
+
+# nodejs
+node_modules
